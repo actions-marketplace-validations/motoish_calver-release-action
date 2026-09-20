@@ -1,5 +1,8 @@
 node_modules/
+.yarn/
 coverage/
 .DS_Store
 .calver-release-action-check-*/
+.dagger/
+dagger.json
 docs/
